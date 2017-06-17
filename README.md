@@ -12,5 +12,14 @@ Sesi Sharing Kotlin
     * while, do..while, for loop
     * if and when branching
 3. Function
+4. Class
+    * open class (for inheritance)
+    * private atribut/method
+    * data class
+    * smart cast
+5. Collections
+    * mutable dan immutable list/set/map
+    * Collection extension function
+        * `forEach`, `filter`, `map`, `partition`
 
 Work In Progress
